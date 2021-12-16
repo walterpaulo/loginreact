@@ -17,11 +17,11 @@ export const AreaHeader = styled.div`
         }
         nav{
             ul{
-                diplay: flex;
+                display: flex;
             }
             li{
-                list-style: nome;
-                margin-left
+                list-style: none;
+                margin-left:30px;
             }
 
         }

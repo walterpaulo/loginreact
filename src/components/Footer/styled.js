@@ -1,4 +1,4 @@
-import styled from "styled-components"
+import styled from 'styled-components'
 
 export const AreaFooter = styled.div`
     background-color: #ccc;
@@ -7,7 +7,7 @@ export const AreaFooter = styled.div`
     font-size:14px;
 
     bottom: 0;
-    postion: fixed;
+    position: fixed;
     width: 100%;
 
 `

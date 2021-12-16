@@ -5,7 +5,7 @@ function Herder(){
     return(
         
       <AreaHeader>
-        .<div className="container">
+        <div className="container">
           <div className="logo">
               LOGOMARCA
           </div>
