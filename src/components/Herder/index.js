@@ -1,10 +1,22 @@
 import React from 'react';
-import './styled';
+import { AreaHeader } from './styled';
 
 function Herder(){
     return(
         
-        <div>Topo do nosso site</div>
+      <AreaHeader>
+        .<div className="container">
+          <div className="logo">
+              LOGOMARCA
+          </div>
+          <nav>
+              <ul>
+                  <li>Configuração</li>
+                  <li>Sair</li>
+              </ul>
+          </nav>
+        </div>
+      </AreaHeader>
         
     );
 }
